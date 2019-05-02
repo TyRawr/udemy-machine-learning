@@ -1,0 +1,19 @@
+magnitude of Data  
+what is an exabyte?  
+  
+human genome on 1 gig  
+1 terabyte video of someones life  
+...  
+There's a lot of data
+
+2005 - 130 Exabytes  
+2010 - 1200 exabytes
+2020 - 40k exabytes  
+exponential growth for how much data we produce  
+lots of data
+
+  
+  we Cant comsume all of the data  
+
+machine learning algorithms allow us to understand the data we cannot process  
+
